@@ -29,7 +29,7 @@ header img {
 
 /* header font */
 #showComic, header, h1, h2, h3, h4, h5 {
-  font-family: 'Cherry Cream Soda', cursive;
+  font-family: 'Roboto';
 }
 
 /* body font */
@@ -81,7 +81,7 @@ a {
     }
 
 a:hover {
-      color: #DA5437;
+      color: #a89162;
     }
 
 /* HEADER */
@@ -173,13 +173,13 @@ header #nav {
 
 /* highlight a table row and make pointer into hand when moused over */
 .archiveRow:hover {
-  background-color: #DA5437;
+  background-color:#a89162;
   cursor: pointer;
 }
 
 /* FOOTER */
 footer {
-  color: #421a1a;
+  color: #ffffff;
   margin-top: 12px;
   margin-bottom: 15px;
   float: left;
